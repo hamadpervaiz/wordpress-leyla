@@ -1,0 +1,9 @@
+.ihc-admin-header, 
+.ihc-subtab-menu, 
+.ihc-admin-user-details-wrapper .ihc-admin-left-side img, 
+.ihc-footer-wrap, 
+.ihc-additional-help, 
+.ihc-error-global-dashboard-message {
+    display: none !important;
+}
+
