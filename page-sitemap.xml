@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2026-02-13T14:38:17+00:00</lastmod>
+		<lastmod>2026-02-23T16:51:23+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/01/image-7-1.svg</image:loc>
 		</image:image>
@@ -13,19 +13,19 @@
 			<image:loc>/wp-content/uploads/2026/01/lacba-removebg-preview.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/Frame-1984078070-2.png</image:loc>
+			<image:loc>/wp-content/uploads/2026/02/Frame-1984078119-2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/image-5-1.png</image:loc>
+			<image:loc>/wp-content/uploads/2026/02/image-5-8.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/image-5-2.png</image:loc>
+			<image:loc>/wp-content/uploads/2026/02/image-5-9.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/01/image-5-3.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/Frame-1984077913-8.png</image:loc>
+			<image:loc>/wp-content/uploads/2026/02/Frame-1984078115.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/01/image-72.png</image:loc>
@@ -35,8 +35,18 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/mediation-training/</loc>
+		<lastmod>2026-02-19T20:07:58+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/02/image-36-1024x490-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/01/Button.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/about-leyla/</loc>
-		<lastmod>2026-02-13T21:18:05+00:00</lastmod>
+		<lastmod>2026-02-19T20:07:25+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/01/lacba-removebg-preview.png</image:loc>
 		</image:image>
@@ -66,32 +76,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/contact/</loc>
-		<lastmod>2026-01-22T21:28:35+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/Frame-1984077913-10.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/calendar-day-1-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/calendar-day-1-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/Line-1.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/calendar-day-1-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/Line-1.svg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/areas-of-practice/</loc>
-		<lastmod>2026-01-22T21:27:29+00:00</lastmod>
+		<lastmod>2026-02-19T16:56:06+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/image-5-4.png</image:loc>
+			<image:loc>/wp-content/uploads/2026/02/image-5-7.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/01/image-5-5.png</image:loc>
@@ -116,25 +104,51 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/6-truths-that-make-divorce-mediation-a-better-choice/</loc>
-		<lastmod>2026-01-20T17:14:21+00:00</lastmod>
+		<loc>/separation-mediator-a-healthier-path-forward/</loc>
+		<lastmod>2026-02-18T18:46:08+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/Frame-1984078107.png</image:loc>
+			<image:loc>/wp-content/uploads/2026/02/Gemini_Generated_Image_mlbm7mmlbm7mmlbm-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/separation-mediator-a-healthier-path-forward/</loc>
-		<lastmod>2026-01-20T16:04:42+00:00</lastmod>
+		<loc>/6-truths-that-make-divorce-mediation-a-better-choice/</loc>
+		<lastmod>2026-02-18T18:45:41+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/Frame-1984078104.png</image:loc>
+			<image:loc>/wp-content/uploads/2026/02/Gemini_Generated_Image_o4dp7ho4dp7ho4dp-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/from-conflict-to-calling-my-journey-into-mediation/</loc>
-		<lastmod>2026-01-20T15:40:39+00:00</lastmod>
+		<lastmod>2026-02-18T18:44:55+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/Frame-1984078042.png</image:loc>
+			<image:loc>/wp-content/uploads/2026/02/Gemini_Generated_Image_mcpgntmcpgntmcpg-1.png</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>/contact/</loc>
+		<lastmod>2026-02-18T13:42:56+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/01/Frame-1984077913-10.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/01/calendar-day-1-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/01/calendar-day-1-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/01/Line-1.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/01/calendar-day-1-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/01/Line-1.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blogs/</loc>
+		<lastmod>2026-02-17T18:46:12+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/404-page/</loc>
