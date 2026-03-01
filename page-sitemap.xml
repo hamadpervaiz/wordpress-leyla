@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2026-02-23T16:51:23+00:00</lastmod>
+		<lastmod>2026-03-01T22:52:51+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/01/image-7-1.svg</image:loc>
 		</image:image>
@@ -32,6 +32,34 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/01/image-73.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/areas-of-practice/</loc>
+		<lastmod>2026-03-01T22:53:59+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/02/image-5-7.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/01/image-5-5.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/01/image-5-6.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/01/Vector-1-5.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/01/chat-text.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/01/Vector-1-6.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/01/lock-simple.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/01/Button.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -70,34 +98,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/01/Button-4.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/Button.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/areas-of-practice/</loc>
-		<lastmod>2026-02-19T16:56:06+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/02/image-5-7.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/image-5-5.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/image-5-6.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/Vector-1-5.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/chat-text.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/Vector-1-6.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/lock-simple.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/01/Button.png</image:loc>
